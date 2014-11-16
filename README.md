@@ -1,4 +1,6 @@
 2014-11-16-lfw
 ==============
 
-SWC workshop webpage assignment 
+SWC workshop webpage assignment.
+
+ 
